@@ -1,0 +1,26 @@
+feature,importance
+discharge_disposition_Skilled Nursing Facility,0.5234819808068374
+prev_admissions_6m,0.5031180115284047
+admission_type_Emergency,0.3277109280890984
+doctor_Dr. Reddy,0.2311660505793329
+admission_type_Urgent,0.22045944289551678
+discharge_disposition_Home,0.2187432702668949
+doctor_Dr. Gill,0.2184832409959541
+doctor_Dr. Mukherjee,0.212704579718099
+doctor_Dr. Roy,0.20407292506061817
+discharge_disposition_Against Medical Advice,0.1840698454221655
+doctor_Dr. Kapoor,0.17938427765624776
+discharge_disposition_Home with Home-care,0.17873188900776707
+age,0.15199423464185446
+doctor_Dr. Banerjee,0.14570687308998762
+doctor_Dr. Menon,0.1399418379774062
+doctor_Dr. Iyer,0.12247867163711969
+department_Oncology,0.12189328828771184
+doctor_Dr. Dutta,0.119225197159343
+doctor_Dr. Mehta,0.11295952838002596
+length_of_stay,0.1093777758587645
+discharge_disposition_Rehab,0.10935176392832585
+primary_diagnosis_Stroke,0.10589415178456311
+doctor_Dr. Bhatia,0.10033708523904276
+department_Orthopedics,0.08765427565566387
+doctor_Dr. Rao,0.08570359432037754
